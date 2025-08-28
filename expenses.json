@@ -1,0 +1,26 @@
+[
+  {
+    "amount": 100000.0,
+    "category": "Entertainment",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "amount": 2000.0,
+    "category": "Food",
+    "date": "2025-08-27",
+    "description": "keema noodles"
+  },
+  {
+    "amount": 10000.0,
+    "category": "Education",
+    "date": "2025-07-07",
+    "description": "pay the 3rd sem fee"
+  },
+  {
+    "amount": 3000.0,
+    "category": "Food",
+    "date": "2026-01-01",
+    "description": "for new year"
+  }
+]
